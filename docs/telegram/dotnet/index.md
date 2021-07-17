@@ -10,3 +10,10 @@ docs covers all you need to know to create a chatbot in .NET. There
 are also many concrete examples written in C#. The guides here can
 even be useful to bot developers using other languages/platforms as
 it shows best practices in developing Telegram chatbots with examples.
+
+### Get Started
+   • 1. 
+   • 2.
+   • 3. 
+   • 4. 
+   • 5.
