@@ -41,4 +41,4 @@ Lorem ipsum dolor sit amet.
 [Click me](http://www.google.com) {: .btn}
 
 <button name="button" onclick="http://www.google.com">Click me</button>
-<input type="button" onclick="location.href='https://google.com';" value="Go to Google" />
+<a href="default.asp" target="_blank">This is a link</a>
