@@ -1,4 +1,4 @@
-## Telegram.Bot
+## Intro
 Telegram.Bot is telegram API that Made for .NET Framework.
 The Bot API is an HTTP-based interface created for developers
 keep on building bots for Telegram. [Check Bots: An introduction](https://core.telegram.org)
